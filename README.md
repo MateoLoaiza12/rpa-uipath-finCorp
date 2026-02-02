@@ -63,3 +63,4 @@ El robot **lee** `status` para decidir si envía el formulario.
 ## Evidencia
 - Logs muestran el JSON generado: `BlackBox JSON: {...}`
 - Orchestrator muestra transacciones Successful y Business Exception (REVIEW/Congratulations).
+- [Video muestra](https://youtu.be/rssptKvT5ho)
