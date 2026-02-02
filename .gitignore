@@ -1,0 +1,23 @@
+# UiPath
+.nuget/
+packages/
+.project/
+.local/
+Objects/
+*.user
+*.local
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vs/
+.vscode/
+
+# Excel temp
+*.xlsx~$
+*.csv~ 
