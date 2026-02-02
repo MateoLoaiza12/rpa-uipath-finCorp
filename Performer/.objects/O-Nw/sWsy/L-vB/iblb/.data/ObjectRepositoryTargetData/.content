@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DjGCePQcTU6U68cJFNxlKQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="7ee9eb50-ac67-4aca-9de8-1113e7e2fad1" CvTextArea="966, 343, 304, 40" CvTextArgument="Congratulations!" CvType="Text" DesignTimeRectangle="498, 334, 1242, 54" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Congratulations!' tag='DIV' type='' class='message1 teal-text text-darken-2' check:innerText='Congratulations!' /&gt;" Guid="7dac7860-3b38-4a06-86b3-67b5abb4119d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7ee9eb50-ac67-4aca-9de8-1113e7e2fad1" CvElementArea="20, 892, 458, 58" CvTextArea="226, 913, 45, 14" CvTextArgument="RESET" CvType="Button" DesignTimeRectangle="23, 894, 452, 54" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='' class='waves-effect col s12 m12 l12 btn-large uiColorButton' aaname='Reset' check:innerText='RESET' /&gt;" Guid="20ccbbf9-3978-46c7-929c-4e158a63f051" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7dd93d740fae599ee885775c8f335984.png" xmlns="">0Q6pvfwGQZk2rBlq92zCnzg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
