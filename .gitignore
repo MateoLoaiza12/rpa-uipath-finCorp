@@ -1,23 +1,19 @@
-# UiPath
-.nuget/
-packages/
-.project/
-.local/
-Objects/
-*.user
-*.local
-*.tmp
-*.log
+# UiPath / Studio local
+**/.local/**
+**/.objects/**
+**/.screenshots/**
+**/.storage/**
+**/.settings/**
+**/.tmh/**
 
-# Windows
-Thumbs.db
-Desktop.ini
+# Output / temp
+**/Output/**
+**/Temp/**
+**/*.log
+**/*.tmp
+
+# Windows / IDE
 .DS_Store
-
-# IDE
-.vs/
+Thumbs.db
 .vscode/
-
-# Excel temp
-*.xlsx~$
-*.csv~ 
+.idea/
